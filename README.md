@@ -1,3 +1,3 @@
 # loto-musical
 
-Lecture aléatoire de fichies musicaux
+Lecture aléatoire de fichiers musicaux
